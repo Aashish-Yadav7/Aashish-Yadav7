@@ -1,8 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0d1117&height=120&fontSize=0" alt="header banner" width="100%"/>
 
 <a href="https://github.com/Aashish-Yadav7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile+%F0%9F%91%8B;BCA+Student+%7C+AI+%26+Web+Developer;Building+PYROS+-+An+AI+Assistant;Turning+Ideas+Into+Code%2C+One+Commit+at+a+Time;Currently+Exploring+LLMs+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,17 +12,17 @@
 
 ### About
 
-I'm a BCA student building **AI and web projects**, with a growing focus on intelligent automation and full-stack development. Currently developing:
+I am a student and I'm building AI and web projects — currently developing PYROS (an AI assistant) and other tools using AI-assisted development.
 
--  **[PYROS](https://github.com/Aashish-Yadav7/PYROS)** — an AI assistant project
--  **[Live-Map-and-News](https://github.com/Aashish-Yadav7/Live-Map-and-news)** — a live map & news TypeScript project
--  **[LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms)** — exploring LLM-driven experiences
+- [PYROS](https://github.com/Aashish-Yadav7/PYROS) — an AI assistant project
+- [Live-Map-and-News](https://github.com/Aashish-Yadav7/Live-Map-and-news) — a live map and news project built with TypeScript
+- [LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms) — exploring LLM-driven experiences
 
-I like building things that combine **AI-assisted development** with practical, usable tools — and I'm always experimenting with new stacks.
+I like building things that combine AI-assisted development with practical, usable tools, and I'm always experimenting with new stacks.
 
 <br/>
 
-###  Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -31,7 +32,7 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <br/>
 
-###  GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -48,17 +49,7 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <br/>
 
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Yadav7&theme=react-dark&bg_color=0d1117&color=39D353&line=0A66C2&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-###  Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -70,7 +61,7 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <div align="center">
 
-###  Connect
+### Connect
 
 <a href="https://www.instagram.com/aashish.yadav.7/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -83,4 +74,4 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/pirate-wave.svg" alt="pirate ship on waves" width="100%"/>
 
-</div>
+</div>s
