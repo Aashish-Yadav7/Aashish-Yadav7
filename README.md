@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=200&section=header&fontSize=0" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0d1117&height=120&fontSize=0" alt="header banner" width="100%"/>
 
 <a href="https://github.com/Aashish-Yadav7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile+%F0%9F%91%8B;BCA+Student+%7C+AI+%26+Web+Developer;Building+PYROS+-+An+AI+Assistant;Turning+Ideas+Into+Code%2C+One+Commit+at+a+Time;Currently+Exploring+LLMs+%26+Automation" alt="Typing SVG" />
@@ -10,19 +10,19 @@
 
 <br/>
 
-### About
+### 🚀 About
 
 I'm a BCA student building **AI and web projects**, with a growing focus on intelligent automation and full-stack development. Currently developing:
 
--  **[PYROS](https://github.com/Aashish-Yadav7/PYROS)** — an AI assistant project
--  **[Live-Map-and-News](https://github.com/Aashish-Yadav7/Live-Map-and-news)** — a live map & news TypeScript project
--  **[LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms)** — exploring LLM-driven experiences
+- 🤖 **[PYROS](https://github.com/Aashish-Yadav7/PYROS)** — an AI assistant project
+- 🗺️ **[Live-Map-and-News](https://github.com/Aashish-Yadav7/Live-Map-and-news)** — a live map & news TypeScript project
+- 🏰 **[LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms)** — exploring LLM-driven experiences
 
 I like building things that combine **AI-assisted development** with practical, usable tools — and I'm always experimenting with new stacks.
 
 <br/>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <br/>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -49,7 +49,7 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <br/>
 
-###  Activity Graph
+### 📈 Activity Graph
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I like building things that combine **AI-assisted development** with practical, 
 
 <br/>
 
-### Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
