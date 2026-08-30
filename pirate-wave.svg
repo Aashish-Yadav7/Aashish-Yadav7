@@ -111,6 +111,20 @@
       <polygon points="480,104 490,104 480,115" fill="#161b22" stroke="#39D353" stroke-width="1.5"/>
       <text x="505" y="92" font-family="Fira Code, monospace" font-size="16" fill="#39D353" text-anchor="middle">Hi! 👋</text>
     </g>
+
+    <!-- burp cloud puff, timed to happen right after the speech bubble -->
+    <g>
+      <circle cx="500" cy="76" r="0" fill="#e6edf3" opacity="0">
+        <animate attributeName="r" values="0;0;3;10;16;16" keyTimes="0;0.75;0.8;0.9;1;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;0.85;0.5;0;0" keyTimes="0;0.75;0.8;0.9;1;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="76;76;70;58;44;44" keyTimes="0;0.75;0.8;0.9;1;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="512" cy="80" r="0" fill="#e6edf3" opacity="0">
+        <animate attributeName="r" values="0;0;2;7;12;12" keyTimes="0;0.78;0.83;0.92;1;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;0.75;0.4;0;0" keyTimes="0;0.78;0.83;0.92;1;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="80;80;74;62;48;48" keyTimes="0;0.78;0.83;0.92;1;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
   </g>
 
   <!-- Front wave, over ships' waterlines -->
