@@ -1,10 +1,16 @@
 <div align="center">
+
+<!-- pixel-robot greeter, built out of contribution-graph style blocks, talks on a loop -->
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/robot-header.svg" alt="pixel robot greeter" width="100%">
+
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
 <!-- "lines=" is just my intro lines separated by semicolons, it types each one out then moves to the next -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;I'm+a+BCA+student+building+AI+and+web+projects..;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
 </a>
+
 </div>
+
 <br>
 
 ### About
@@ -34,12 +40,12 @@ I like building things that combine AI-assisted development with practical, usab
 <!-- using github-stats-extended instead of the original vercel host, since that one keeps going down from overuse -->
 <!-- cache_seconds=60 means it refreshes every minute, so numbers catch up fast after a new commit -->
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Aashish-Yadav7&show_icons=true&theme=transparent&bg_color=0A66C2,0d1117&title_color=ffffff&icon_color=39D353&text_color=e6edf3&cache_seconds=60" alt="my github stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav7&theme=transparent&background=0A66C2,0d1117&ring=39D353&fire=39D353" alt="my streak stats" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=Aashish-Yadav7&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&icon_color=39D353&text_color=e6edf3&cache_seconds=60" alt="my github stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav7&theme=transparent&background=0d1117&ring=39D353&fire=39D353" alt="my streak stats" height="165">
 </div>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aashish-Yadav7&layout=compact&theme=transparent&bg_color=0A66C2,0d1117&title_color=ffffff&text_color=e6edf3&cache_seconds=60" alt="my top languages" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aashish-Yadav7&layout=compact&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=e6edf3&cache_seconds=60" alt="my top languages" height="165">
 </div>
 
 <br>
