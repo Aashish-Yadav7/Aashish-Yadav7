@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- pixel-robot greeter, built out of contribution-graph style blocks, talks on a loop -->
 <img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/robot-header.svg" alt="pixel robot greeter" width="100%">
 
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
