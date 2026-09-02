@@ -5,7 +5,7 @@
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
 <!-- "lines=" is just my intro lines separated by semicolons, it types each one out then moves to the next -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;I'm+a+BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;I'm+a+BCA+student+building+AI+and+web+projects...;Currently+developing+PYROS;Learning+by+building,+one+project+at+a+time" alt="typing animation">
 </a>
 
 </div>
