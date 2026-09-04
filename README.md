@@ -1,12 +1,20 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/robot-header.svg" alt="pixel robot greeter" width="100%">
+
+<!-- profile photo, pulled straight from the GitHub avatar, framed with a rounded green border -->
+<img src="https://github.com/Aashish-Yadav7.png?size=200" alt="profile photo" width="160" height="160" style="border-radius:50%;border:4px solid #39D353;">
+
+<br><br>
+
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
 <!-- "lines=" is just my intro lines separated by semicolons, it types each one out then moves to the next -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;I'm+a+BCA+student+building+AI+and+web+projects...;Currently+developing+PYROS;Learning+by+building,+one+project+at+a+time" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
 </a>
+
 </div>
+
 <br>
+
 ### About
 
 I am a student and I'm building AI and web projects — currently developing PYROS (an AI assistant) and other tools using AI-assisted development.
@@ -16,6 +24,24 @@ I am a student and I'm building AI and web projects — currently developing PYR
 - [LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms) — exploring LLM-driven experiences
 
 I like building things that combine AI-assisted development with practical, usable tools, and I'm always experimenting with new stacks.
+
+<br>
+
+### 3D Contribution Graph
+
+<!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), real isometric 3d bars from my actual contribution data -->
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" width="100%">
+</div>
+
+<br>
+
+### Stats
+
+<!-- hexagon panels with a subtle pulse animation - currently fixed numbers, can be wired to auto-update -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg" alt="hexagon stats" width="100%">
+</div>
 
 <br>
 
