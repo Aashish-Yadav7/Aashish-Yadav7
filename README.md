@@ -1,7 +1,5 @@
 <div align="center">
 
-<br><br>
-
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
 <!-- "lines=" is just my intro lines separated by semicolons, it types each one out then moves to the next -->
 <a href="https://github.com/Aashish-Yadav7">
@@ -28,7 +26,7 @@ I like building things that combine AI-assisted development with practical, usab
 
 <!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), real isometric 3d bars from my actual contribution data -->
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%">
+<img src="./profile-3d-contrib/profile-green.svg" alt="3d contribution graph" width="100%">
 </div>
 
 <br>
