@@ -1,139 +1,79 @@
-<svg viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="waveBack" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#388bfd"/>
-      <stop offset="100%" stop-color="#1158c7"/>
-    </linearGradient>
-    <linearGradient id="waveFront" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#0a3d91"/>
-    </linearGradient>
-  </defs>
+<svg viewBox="0 -30 1000 330" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxZTc4YjU1MC1hMWZhLTQzMTEtOWE4MS00ZDc0NzFmMmM3NTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaH8Jh0l0o3K5VJTbvI5IitcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMzNkZjAwMS1iMDhmLTRjYmUtOTI2My0zMzA1NTZkNzA3NjJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNobEtqzSJZhu4SDfF8RbLuwgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggQ6BiFvumgbT929DRh5p7Y1mXrVc17gdDZHUF3u1/LqakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOX9oPy5heSAx9fG58BnpokAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCtf4JBLL2SilhUsSkYjQiFkvtGpXGTJHTs8mK/usi+U2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiAZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjFlNzhiNTUwLWExZmEtNDMxMS05YTgxLTRkNzQ3MWYyYzc1MS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRmYmExOGNmLTdjNmQtNGM0Yy05YWY3LTRhZWJmOTMzY2VkZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBDoGIW+6aBtP3b0NGHmntjWZetVzXuB0NkdQXe7X8upqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggSizza3drG4Yv/ryE9dfhePkWEwoOae4BMTzoMp6qNEuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg2FEuczDXz+oU14a6zEsT6mgkZ+13NM/A86fryo+3zch0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLQX7Ul0roucOwcp2/hV2KAiJEWvmoLtrWll0YgMr34k3P0ueK9dx1aOgDClzc/1GMkEV/V2sMh+atDHJljV7TM=</c2pa:manifest></metadata>
+<!-- pirate fleet: one lead ship out front, four smaller ones trailing behind in a V shape -->
+<!-- back wave -->
+<path fill="#1f6feb" opacity="0.85" d="M0,175 Q80,150 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V300 H0 Z">
+  <animate attributeName="d" dur="6s" repeatCount="indefinite"
+    values="
+    M0,175 Q80,150 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V300 H0 Z;
+    M0,175 Q80,200 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V300 H0 Z;
+    M0,175 Q80,150 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V300 H0 Z
+    "/>
+</path>
+<!-- lead ship -->
 
-  <rect x="0" y="0" width="1000" height="260" fill="url(#sky)"/>
-
-  <!-- Back wave -->
-  <path fill="url(#waveBack)" opacity="0.55">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-      M0,175 Q80,150 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V260 H0 Z;
-      M0,175 Q80,200 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V260 H0 Z;
-      M0,175 Q80,150 160,175 T320,175 T480,175 T640,175 T800,175 T1000,175 V260 H0 Z
-      "/>
-  </path>
-
-  <!-- CRUISE SHIP (ahead, ambling forward) -->
-  <g id="cruise">
-    <animateTransform attributeName="transform" type="translate" dur="5s"
-      values="0,0; 0,-6; 0,0; 0,5; 0,0" repeatCount="indefinite"/>
-
-    <!-- hull -->
-    <path d="M700,150 L860,150 L845,180 L715,180 Z" fill="#e6edf3" stroke="#8b949e" stroke-width="2"/>
-    <rect x="715" y="180" width="130" height="6" fill="#1f6feb"/>
-    <!-- deck levels -->
-    <rect x="715" y="128" width="130" height="24" rx="3" fill="#c9d1d9" stroke="#8b949e" stroke-width="1.5"/>
-    <rect x="735" y="106" width="80" height="24" rx="3" fill="#e6edf3" stroke="#8b949e" stroke-width="1.5"/>
-    <!-- windows -->
-    <g fill="#0A66C2">
-      <rect x="722" y="134" width="6" height="8"/>
-      <rect x="736" y="134" width="6" height="8"/>
-      <rect x="750" y="134" width="6" height="8"/>
-      <rect x="764" y="134" width="6" height="8"/>
-      <rect x="778" y="134" width="6" height="8"/>
-      <rect x="792" y="134" width="6" height="8"/>
-      <rect x="806" y="134" width="6" height="8"/>
-      <rect x="820" y="134" width="6" height="8"/>
-      <rect x="742" y="112" width="6" height="8"/>
-      <rect x="756" y="112" width="6" height="8"/>
-      <rect x="770" y="112" width="6" height="8"/>
-      <rect x="784" y="112" width="6" height="8"/>
-      <rect x="798" y="112" width="6" height="8"/>
+    <g transform="translate(500,150) scale(1.3)">
+      <animateTransform attributeName="transform" type="translate" dur="4s"
+        values="500,150; 500,142; 500,150; 500,156; 500,150" additive="sum" repeatCount="indefinite"/>
+      <path d="M-80,0 L80,0 L64,32 L-64,32 Z" fill="#6e4423" stroke="#3b2412" stroke-width="2"/>
+      <rect x="-4" y="-84" width="8" height="84" fill="#3b2412"/>
+      <path d="M0,-78 Q42,-60 0,-30 Z" fill="#111820" opacity="0.9"/>
+      <path d="M0,-78 L26,-72 L0,-66 Z" fill="#161b22" stroke="#8b949e" stroke-width="1">
+        <animateTransform attributeName="transform" type="skewX" values="0;10;0;-10;0" dur="2s" repeatCount="indefinite" additive="sum"/>
+      </path>
     </g>
-    <!-- funnel -->
-    <rect x="765" y="80" width="14" height="26" rx="2" fill="#f85149"/>
-    <rect x="763" y="78" width="18" height="6" rx="1" fill="#e6edf3"/>
-    <!-- smoke -->
-    <g fill="#8b949e">
-      <circle cx="772" cy="70" r="5">
-        <animate attributeName="cy" values="70;40;70" dur="3.5s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.7;0;0.7" dur="3.5s" repeatCount="indefinite"/>
-        <animate attributeName="r" values="5;9;5" dur="3.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="778" cy="66" r="4">
-        <animate attributeName="cy" values="66;30;66" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.6;0;0.6" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
-        <animate attributeName="r" values="4;8;4" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-  </g>
+<!-- trailing ships, left side of the V -->
 
-  <!-- PIRATE GALLEON (behind, chasing) -->
-  <g id="ship">
-    <animateTransform attributeName="transform" type="translate" dur="4s"
-      values="0,0; 0,-10; 0,0; 0,7; 0,0" repeatCount="indefinite"/>
-
-    <!-- hull, larger and more detailed -->
-    <path d="M330,168 L470,168 L455,205 L345,205 Z" fill="#6e4423" stroke="#3b2412" stroke-width="2"/>
-    <path d="M330,168 L470,168 L462,180 L338,180 Z" fill="#8a5a30" stroke="#3b2412" stroke-width="1"/>
-    <!-- deck rail -->
-    <rect x="345" y="160" width="110" height="8" fill="#4a2c14"/>
-
-    <!-- bowsprit -->
-    <path d="M462,168 L495,158" stroke="#3b2412" stroke-width="4"/>
-
-    <!-- rear mast -->
-    <rect x="360" y="70" width="5" height="98" fill="#3b2412"/>
-    <path d="M363,76 Q400,92 363,120 Z" fill="#111820" opacity="0.9"/>
-    <!-- main mast -->
-    <rect x="418" y="45" width="6" height="123" fill="#3b2412"/>
-    <path d="M421,52 Q470,72 421,110 Z" fill="#111820" opacity="0.9"/>
-    <path d="M421,110 Q460,126 421,150 Z" fill="#111820" opacity="0.85"/>
-
-    <!-- crow's nest -->
-    <rect x="412" y="42" width="18" height="8" rx="2" fill="#3b2412"/>
-
-    <!-- skull flag -->
-    <path d="M421,42 L448,49 L421,56 Z" fill="#161b22" stroke="#8b949e" stroke-width="1">
-      <animateTransform attributeName="transform" type="skewX" values="0;12;0;-12;0" dur="2s" repeatCount="indefinite" additive="sum"/>
-    </path>
-    <circle cx="432" cy="49" r="3.2" fill="#e6edf3">
-      <animateTransform attributeName="transform" type="skewX" values="0;12;0;-12;0" dur="2s" repeatCount="indefinite" additive="sum"/>
-    </circle>
-
-    <!-- speech bubble -->
-    <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35;0.45;0.75;0.85;1" dur="6s" repeatCount="indefinite"/>
-      <rect x="470" y="70" rx="10" ry="10" width="70" height="34" fill="#161b22" stroke="#39D353" stroke-width="1.5"/>
-      <polygon points="480,104 490,104 480,115" fill="#161b22" stroke="#39D353" stroke-width="1.5"/>
-      <text x="505" y="92" font-family="Fira Code, monospace" font-size="16" fill="#39D353" text-anchor="middle">Hi! 👋</text>
+    <g transform="translate(360,190) scale(0.9)">
+      <animateTransform attributeName="transform" type="translate" dur="4s"
+        values="360,190; 360,182; 360,190; 360,196; 360,190" additive="sum" repeatCount="indefinite"/>
+      <path d="M-80,0 L80,0 L64,32 L-64,32 Z" fill="#6e4423" stroke="#3b2412" stroke-width="2"/>
+      <rect x="-4" y="-84" width="8" height="84" fill="#3b2412"/>
+      <path d="M0,-78 Q42,-60 0,-30 Z" fill="#111820" opacity="0.9"/>
+      <path d="M0,-78 L26,-72 L0,-66 Z" fill="#161b22" stroke="#8b949e" stroke-width="1">
+        <animateTransform attributeName="transform" type="skewX" values="0;10;0;-10;0" dur="2s" repeatCount="indefinite" additive="sum"/>
+      </path>
     </g>
 
-    <!-- burp cloud puff, timed to happen right after the speech bubble -->
-    <g>
-      <circle cx="500" cy="76" r="0" fill="#e6edf3" opacity="0">
-        <animate attributeName="r" values="0;0;3;10;16;16" keyTimes="0;0.75;0.8;0.9;1;1" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0;0.85;0.5;0;0" keyTimes="0;0.75;0.8;0.9;1;1" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="76;76;70;58;44;44" keyTimes="0;0.75;0.8;0.9;1;1" dur="6s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="512" cy="80" r="0" fill="#e6edf3" opacity="0">
-        <animate attributeName="r" values="0;0;2;7;12;12" keyTimes="0;0.78;0.83;0.92;1;1" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0;0.75;0.4;0;0" keyTimes="0;0.78;0.83;0.92;1;1" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="80;80;74;62;48;48" keyTimes="0;0.78;0.83;0.92;1;1" dur="6s" repeatCount="indefinite"/>
-      </circle>
+    <g transform="translate(230,220) scale(0.7)">
+      <animateTransform attributeName="transform" type="translate" dur="4s"
+        values="230,220; 230,212; 230,220; 230,226; 230,220" additive="sum" repeatCount="indefinite"/>
+      <path d="M-80,0 L80,0 L64,32 L-64,32 Z" fill="#6e4423" stroke="#3b2412" stroke-width="2"/>
+      <rect x="-4" y="-84" width="8" height="84" fill="#3b2412"/>
+      <path d="M0,-78 Q42,-60 0,-30 Z" fill="#111820" opacity="0.9"/>
+      <path d="M0,-78 L26,-72 L0,-66 Z" fill="#161b22" stroke="#8b949e" stroke-width="1">
+        <animateTransform attributeName="transform" type="skewX" values="0;-10;0;10;0" dur="2s" repeatCount="indefinite" additive="sum"/>
+      </path>
     </g>
-  </g>
+<!-- trailing ships, right side of the V -->
 
-  <!-- Front wave, over ships' waterlines -->
-  <path fill="url(#waveFront)">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite"
-      values="
-      M0,195 Q80,175 160,195 T320,195 T480,195 T640,195 T800,195 T1000,195 V260 H0 Z;
-      M0,195 Q80,215 160,195 T320,195 T480,195 T640,195 T800,195 T1000,195 V260 H0 Z;
-      M0,195 Q80,175 160,195 T320,195 T480,195 T640,195 T800,195 T1000,195 V260 H0 Z
-      "/>
-  </path>
+    <g transform="translate(640,190) scale(0.9)">
+      <animateTransform attributeName="transform" type="translate" dur="4s"
+        values="640,190; 640,182; 640,190; 640,196; 640,190" additive="sum" repeatCount="indefinite"/>
+      <path d="M-80,0 L80,0 L64,32 L-64,32 Z" fill="#6e4423" stroke="#3b2412" stroke-width="2"/>
+      <rect x="-4" y="-84" width="8" height="84" fill="#3b2412"/>
+      <path d="M0,-78 Q42,-60 0,-30 Z" fill="#111820" opacity="0.9"/>
+      <path d="M0,-78 L26,-72 L0,-66 Z" fill="#161b22" stroke="#8b949e" stroke-width="1">
+        <animateTransform attributeName="transform" type="skewX" values="0;-10;0;10;0" dur="2s" repeatCount="indefinite" additive="sum"/>
+      </path>
+    </g>
+
+    <g transform="translate(770,220) scale(0.7)">
+      <animateTransform attributeName="transform" type="translate" dur="4s"
+        values="770,220; 770,212; 770,220; 770,226; 770,220" additive="sum" repeatCount="indefinite"/>
+      <path d="M-80,0 L80,0 L64,32 L-64,32 Z" fill="#6e4423" stroke="#3b2412" stroke-width="2"/>
+      <rect x="-4" y="-84" width="8" height="84" fill="#3b2412"/>
+      <path d="M0,-78 Q42,-60 0,-30 Z" fill="#111820" opacity="0.9"/>
+      <path d="M0,-78 L26,-72 L0,-66 Z" fill="#161b22" stroke="#8b949e" stroke-width="1">
+        <animateTransform attributeName="transform" type="skewX" values="0;10;0;-10;0" dur="2s" repeatCount="indefinite" additive="sum"/>
+      </path>
+    </g>
+<!-- front wave, sits over the ships' waterlines -->
+<path fill="#1f6feb" d="M0,205 Q80,185 160,205 T320,205 T480,205 T640,205 T800,205 T1000,205 V300 H0 Z">
+  <animate attributeName="d" dur="4s" repeatCount="indefinite"
+    values="
+    M0,205 Q80,185 160,205 T320,205 T480,205 T640,205 T800,205 T1000,205 V300 H0 Z;
+    M0,205 Q80,225 160,205 T320,205 T480,205 T640,205 T800,205 T1000,205 V300 H0 Z;
+    M0,205 Q80,185 160,205 T320,205 T480,205 T640,205 T800,205 T1000,205 V300 H0 Z
+    "/>
+</path>
 </svg>
