@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- profile photo, pulled straight from the GitHub avatar, framed with a rounded green border -->
+<img src="https://github.com/Aashish-Yadav7.png?size=200" alt="profile photo" width="160" height="160" style="border-radius:50%;border:4px solid #39D353;">
 
 <br><br>
 
@@ -29,7 +31,7 @@ I like building things that combine AI-assisted development with practical, usab
 
 <!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), real isometric 3d bars from my actual contribution data -->
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" width="100%">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%">
 </div>
 
 <br>
