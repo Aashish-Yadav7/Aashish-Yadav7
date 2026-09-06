@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- profile photo, pulled straight from the GitHub avatar, framed with a rounded green border -->
-<img src="https://github.com/Aashish-Yadav7.png?size=200" alt="profile photo" width="160" height="160" style="border-radius:50%;border:4px solid #39D353;">
-
 <br><br>
 
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
