@@ -26,16 +26,16 @@ I like building things that combine AI-assisted development with practical, usab
 
 <!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), real isometric 3d bars from my actual contribution data -->
 <div align="center">
-<img src="./profile-3d-contrib/profile-green.svg" alt="3d contribution graph" width="100%">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%">
 </div>
 
 <br>
 
 ### Stats
 
-<!-- hexagon panels with a subtle pulse animation - currently fixed numbers, can be wired to auto-update -->
+<!-- four pentagon-shaped radar charts side by side: languages, git activity, skills, consistency -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg" alt="hexagon stats" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg?v=2" alt="radar charts" width="100%">
 </div>
 
 <br>
@@ -88,6 +88,6 @@ I like building things that combine AI-assisted development with practical, usab
 <br><br>
 
 <!-- pirate ship animation, sits at the very bottom -->
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/pirate-wave.svg" alt="pirate ship sailing" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/pirate-wave.svg?v=2" alt="pirate ship sailing" width="100%">
 
 </div>
