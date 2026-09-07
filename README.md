@@ -3,14 +3,14 @@
 <!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
 <!-- "lines=" is just my intro lines separated by semicolons, it types each one out then moves to the next -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+different+projects" alt="typing animation">
 </a>
 
 </div>
 
 <br>
 
-### About
+## About Me 
 
 I am a student and I'm building AI and web projects — currently developing PYROS (an AI assistant) and other tools using AI-assisted development.
 
