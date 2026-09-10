@@ -1,93 +1,103 @@
 <div align="center">
 
-<!-- this is a typing animation: a small free service that turns plain text into an animated SVG text effect -->
-<!-- "lines=" is just my intro lines separated by semicolons, it types each one out then moves to the next -->
+<!-- serif-style typing text, black on white, quiet and minimal -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;I'm+BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+different+projects" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&color=1A1A1A&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
 </a>
-
-</div>
 
 <br>
 
-## About Me 
+<!-- a thin horizontal rule instead of a colorful banner - keeps the top quiet -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=2&section=header" width="60%">
+
+</div>
+
+<br><br>
+
+### About
 
 I am a student and I'm building AI and web projects — currently developing PYROS (an AI assistant) and other tools using AI-assisted development.
+
+&nbsp;
 
 - [PYROS](https://github.com/Aashish-Yadav7/PYROS) — an AI assistant project
 - [Live-Map-and-News](https://github.com/Aashish-Yadav7/Live-Map-and-news) — a live map and news project built with TypeScript
 - [LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms) — exploring LLM-driven experiences
 
+&nbsp;
+
 I like building things that combine AI-assisted development with practical, usable tools, and I'm always experimenting with new stacks.
 
-<br>
+<br><br>
 
-### 3D Contribution Graph
+### Contribution Graph
 
-<!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), real isometric 3d bars from my actual contribution data -->
+<!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), white background variant -->
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%">
+<img src="./profile-3d-contrib/profile-green.svg" alt="3d contribution graph" width="100%">
 </div>
 
-<br>
+<br><br>
 
 ### Stats
 
-<!-- four pentagon-shaped radar charts side by side: languages, git activity, skills, consistency -->
+<!-- four pentagon radar charts, monochrome graphite on white -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg?v=2" alt="radar charts" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg?v=3" alt="radar charts" width="100%">
 </div>
 
-<br>
+<br><br>
 
 ### Tech Stack
 
-<!-- skillicons.dev just draws logos for whatever tech names you list after "i=" -->
+<!-- light icon theme to sit cleanly on white -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,vscode,figma&theme=dark">
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,vscode,figma&theme=light">
 </div>
 
-<br>
+<br><br>
 
 ### GitHub Stats
 
-<!-- these two cards pull live numbers from my GitHub account automatically, nothing hardcoded -->
-<!-- using github-stats-extended instead of the original vercel host, since that one keeps going down from overuse -->
-<!-- cache_seconds=60 means it refreshes every minute, so numbers catch up fast after a new commit -->
+<!-- light theme, thin black border, no bright accent colors -->
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Aashish-Yadav7&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&icon_color=39D353&text_color=e6edf3&cache_seconds=60" alt="my github stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav7&theme=transparent&background=0d1117&ring=39D353&fire=39D353" alt="my streak stats" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=Aashish-Yadav7&show_icons=true&theme=default&hide_border=false&border_color=1a1a1a&bg_color=ffffff&title_color=1a1a1a&icon_color=4a4a4a&text_color=333333&cache_seconds=60" alt="my github stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav7&theme=default&hide_border=false&border=1a1a1a&background=ffffff&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" alt="my streak stats" height="165">
 </div>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aashish-Yadav7&layout=compact&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=e6edf3&cache_seconds=60" alt="my top languages" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aashish-Yadav7&layout=compact&theme=default&hide_border=false&border_color=1a1a1a&bg_color=ffffff&title_color=1a1a1a&text_color=333333&cache_seconds=60" alt="my top languages" height="165">
 </div>
 
-<br>
+<br><br>
 
-### Contribution Snake
+### Activity
 
-<!-- this eats through my real contribution calendar, one square at a time -->
+<!-- gravity animation, replaces the old snake - my initials fall and collide with my contribution blocks -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contribution graph" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/gravity.svg" alt="contribution gravity animation" width="100%">
 </div>
 
-<br>
+<br><br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=2&section=header" width="60%">
+
+<br><br>
 
 ### Connect
 
-<div align="center">
-
 <a href="https://www.instagram.com/aashish.yadav.7/">
-<img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<!-- pirate ship animation, sits at the very bottom -->
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/pirate-wave.svg?v=2" alt="pirate ship sailing" width="100%">
+<!-- quiet wave divider, no ships, muted blue on white -->
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/pirate-wave.svg?v=3" alt="wave divider" width="100%">
 
 </div>
