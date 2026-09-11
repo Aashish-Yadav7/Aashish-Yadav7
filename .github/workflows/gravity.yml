@@ -22,8 +22,10 @@ jobs:
           text: Aashish Yadav
           shape: square
           background-color: transparent
-          text-color: "#111111"
+          text-color: "#39D353"
           output-path: gravity.svg
+      - name: Rescale animation to loop every 4 seconds
+        run: python3 rescale_gravity.py gravity.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
