@@ -1,103 +1,88 @@
 <div align="center">
 
-<!-- serif-style typing text, black on white, quiet and minimal -->
+<!-- bright typing text, matches the rest of the page's dark theme -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&color=1A1A1A&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
 </a>
-
-<br>
-
-<!-- a thin horizontal rule instead of a colorful banner - keeps the top quiet -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=2&section=header" width="60%">
 
 </div>
 
-<br><br>
+<br>
 
 ### About
 
 I am a student and I'm building AI and web projects — currently developing PYROS (an AI assistant) and other tools using AI-assisted development.
 
-&nbsp;
-
 - [PYROS](https://github.com/Aashish-Yadav7/PYROS) — an AI assistant project
 - [Live-Map-and-News](https://github.com/Aashish-Yadav7/Live-Map-and-news) — a live map and news project built with TypeScript
 - [LLMs-Kingdoms](https://github.com/Aashish-Yadav7/LLMs-Kingdoms) — exploring LLM-driven experiences
 
-&nbsp;
-
 I like building things that combine AI-assisted development with practical, usable tools, and I'm always experimenting with new stacks.
 
-<br><br>
+<br>
 
 ### Contribution Graph
 
-<!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), white background variant -->
+<!-- generated daily by a GitHub Action (yoshi389111/github-profile-3d-contrib), dark green theme -->
 <div align="center">
-<img src="./profile-3d-contrib/profile-green.svg" alt="3d contribution graph" width="100%">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="100%">
 </div>
 
-<br><br>
+<br>
 
 ### Stats
 
-<!-- four pentagon radar charts, monochrome graphite on white -->
+<!-- four pentagon radar charts - Languages, Git Activity, Consistency use real data pulled from the GitHub API, refreshed every 3 hours. Skills is a manual self-rating (labeled as such on the chart itself). -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg?v=3" alt="radar charts" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/hex-stats.svg?v=4" alt="radar charts" width="100%">
 </div>
 
-<br><br>
+<br>
 
 ### Tech Stack
 
-<!-- light icon theme to sit cleanly on white -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,vscode,figma&theme=light">
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,vscode,figma&theme=dark">
 </div>
 
-<br><br>
+<br>
 
 ### GitHub Stats
 
-<!-- light theme, thin black border, no bright accent colors -->
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Aashish-Yadav7&show_icons=true&theme=default&hide_border=false&border_color=1a1a1a&bg_color=ffffff&title_color=1a1a1a&icon_color=4a4a4a&text_color=333333&cache_seconds=60" alt="my github stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav7&theme=default&hide_border=false&border=1a1a1a&background=ffffff&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" alt="my streak stats" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=Aashish-Yadav7&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&icon_color=39D353&text_color=e6edf3&cache_seconds=60" alt="my github stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-Yadav7&theme=transparent&background=0d1117&ring=39D353&fire=39D353" alt="my streak stats" height="165">
 </div>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aashish-Yadav7&layout=compact&theme=default&hide_border=false&border_color=1a1a1a&bg_color=ffffff&title_color=1a1a1a&text_color=333333&cache_seconds=60" alt="my top languages" height="165">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aashish-Yadav7&layout=compact&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=e6edf3&cache_seconds=60" alt="my top languages" height="165">
 </div>
 
-<br><br>
+<br>
 
 ### Activity
 
-<!-- gravity animation, replaces the old snake - my initials fall and collide with my contribution blocks -->
+<!-- gravity animation, replaces the old snake - my name falls and lands on top of my contribution blocks -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/gravity.svg" alt="contribution gravity animation" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/gravity.svg?v=2" alt="contribution gravity animation" width="100%">
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=2&section=header" width="60%">
-
-<br><br>
 
 ### Connect
 
 <a href="https://www.instagram.com/aashish.yadav.7/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<!-- quiet wave divider, no ships, muted blue on white -->
+<!-- wave divider, no ships, blue -->
 <img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/pirate-wave.svg?v=3" alt="wave divider" width="100%">
 
 </div>
