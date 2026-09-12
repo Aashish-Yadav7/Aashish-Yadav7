@@ -83,10 +83,10 @@
 <line x1="1540" y1="260" x2="1604.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1475.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1435.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="1540.0,258.9 1548.5,257.3 1604.7,349.0 1525.3,280.2 1536.8,259.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="1540.0,260.0 1548.5,257.3 1604.7,349.0 1525.3,280.2 1536.8,259.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
-<circle cx="1540.0" cy="258.9" r="4.5" fill="#e3b341"/>
+<circle cx="1540.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <circle cx="1548.5" cy="257.3" r="4.5" fill="#e3b341"/>
 <circle cx="1604.7" cy="349.0" r="4.5" fill="#e3b341"/>
 <circle cx="1525.3" cy="280.2" r="4.5" fill="#e3b341"/>
