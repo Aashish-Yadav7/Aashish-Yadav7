@@ -11,12 +11,12 @@
 <line x1="220" y1="260" x2="284.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="220" y1="260" x2="155.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="220" y1="260" x2="115.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="220.0,150.0 236.7,254.6 220.9,261.3 220.0,260.0 220.0,260.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="220.0,150.0 250.8,250.0 221.7,262.4 220.0,260.0 220.0,260.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
 <circle cx="220.0" cy="150.0" r="4.5" fill="#e3b341"/>
-<circle cx="236.7" cy="254.6" r="4.5" fill="#e3b341"/>
-<circle cx="220.9" cy="261.3" r="4.5" fill="#e3b341"/>
+<circle cx="250.8" cy="250.0" r="4.5" fill="#e3b341"/>
+<circle cx="221.7" cy="262.4" r="4.5" fill="#e3b341"/>
 <circle cx="220.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <circle cx="220.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <text x="220.0" y="120.0" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">HTML</text>
@@ -35,11 +35,11 @@
 <line x1="660" y1="260" x2="724.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="660" y1="260" x2="595.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="660" y1="260" x2="555.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="660.0,150.0 660.6,259.8 660.0,260.0 660.0,260.0 656.7,258.9" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="660.0,150.0 660.5,259.8 660.0,260.0 660.0,260.0 656.7,258.9" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
 <circle cx="660.0" cy="150.0" r="4.5" fill="#e3b341"/>
-<circle cx="660.6" cy="259.8" r="4.5" fill="#e3b341"/>
+<circle cx="660.5" cy="259.8" r="4.5" fill="#e3b341"/>
 <circle cx="660.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <circle cx="660.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <circle cx="656.7" cy="258.9" r="4.5" fill="#e3b341"/>
@@ -83,14 +83,14 @@
 <line x1="1540" y1="260" x2="1604.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1475.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1435.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="1540.0,260.0 1548.5,257.3 1604.7,349.0 1525.3,280.2 1536.8,259.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="1540.0,258.4 1548.4,257.3 1604.7,349.0 1525.1,280.5 1536.9,259.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
-<circle cx="1540.0" cy="260.0" r="4.5" fill="#e3b341"/>
-<circle cx="1548.5" cy="257.3" r="4.5" fill="#e3b341"/>
+<circle cx="1540.0" cy="258.4" r="4.5" fill="#e3b341"/>
+<circle cx="1548.4" cy="257.3" r="4.5" fill="#e3b341"/>
 <circle cx="1604.7" cy="349.0" r="4.5" fill="#e3b341"/>
-<circle cx="1525.3" cy="280.2" r="4.5" fill="#e3b341"/>
-<circle cx="1536.8" cy="259.0" r="4.5" fill="#e3b341"/>
+<circle cx="1525.1" cy="280.5" r="4.5" fill="#e3b341"/>
+<circle cx="1536.9" cy="259.0" r="4.5" fill="#e3b341"/>
 <text x="1540.0" y="120.0" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Current Streak</text>
 <text x="1673.1" y="216.7" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Best Streak</text>
 <text x="1622.3" y="373.3" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Contributions</text>
