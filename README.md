@@ -2,7 +2,7 @@
 
 <!-- bright typing text, matches the rest of the page's dark theme -->
 <a href="https://github.com/Aashish-Yadav7">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=39D353&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FF8C00&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
 </a>
 
 </div>
@@ -62,9 +62,9 @@ I like building things that combine AI-assisted development with practical, usab
 
 ### Activity
 
-<!-- gravity animation, replaces the old snake - my name falls and lands on top of my contribution blocks -->
+<!-- fireworks: real contribution cells periodically launch upward and shatter into fragments of the same color, on a continuous loop -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/gravity.svg?v=2" alt="contribution gravity animation" width="100%">
+<img src="https://raw.githubusercontent.com/Aashish-Yadav7/Aashish-Yadav7/main/fireworks.svg" alt="fireworks animation" width="100%">
 </div>
 
 <br>
