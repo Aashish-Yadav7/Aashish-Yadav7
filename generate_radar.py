@@ -94,6 +94,8 @@ def get_language_breakdown():
 
     totals = {}
     for repo in repos:
+        if repo.get("fork"):
+            continue  # skip forks - a fork's language bytes aren't really "my" code
         lang_resp = requests.get(repo["languages_url"], headers={"Authorization": f"token {TOKEN}"})
         if lang_resp.status_code != 200:
             continue
@@ -112,6 +114,10 @@ def normalize(values):
     return [v / max_val for v in values]
 
 
+def xml_escape(text):
+    return (str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+
 def point_on_axis(cx, cy, angle_deg, distance):
     angle_rad = math.pi / 180 * angle_deg
     return cx + distance * math.cos(angle_rad), cy + distance * math.sin(angle_rad)
@@ -125,10 +131,10 @@ def draw_radar(cx, cy, max_radius, axes, title, note=None):
     parts = []
     angles = pentagon_angles()
     parts.append(f'<text x="{cx}" y="{cy - max_radius - 55}" font-family="Fira Code, monospace" font-size="20" '
-                 f'fill="#e6edf3" text-anchor="middle" font-weight="bold">{title}</text>')
+                 f'fill="#e6edf3" text-anchor="middle" font-weight="bold">{xml_escape(title)}</text>')
     if note:
         parts.append(f'<text x="{cx}" y="{cy - max_radius - 32}" font-family="Fira Code, monospace" font-size="11" '
-                     f'fill="#6b6b6b" text-anchor="middle" font-style="italic">{note}</text>')
+                     f'fill="#6b6b6b" text-anchor="middle" font-style="italic">{xml_escape(note)}</text>')
 
     for ring_fraction in [0.25, 0.5, 0.75, 1.0]:
         pts = [f"{x:.1f},{y:.1f}" for x, y in (point_on_axis(cx, cy, a, max_radius * ring_fraction) for a in angles)]
@@ -152,7 +158,7 @@ def draw_radar(cx, cy, max_radius, axes, title, note=None):
         x, y = point_on_axis(cx, cy, angle, max_radius + 30)
         anchor = "start" if angle == 0 else "end" if angle == 180 else "middle"
         parts.append(f'<text x="{x:.1f}" y="{y:.1f}" font-family="Fira Code, monospace" font-size="13" '
-                     f'fill="#8b949e" text-anchor="{anchor}" dominant-baseline="middle">{label}</text>')
+                     f'fill="#8b949e" text-anchor="{anchor}" dominant-baseline="middle">{xml_escape(label)}</text>')
 
     return "\n".join(parts)
 
