@@ -83,14 +83,14 @@
 <line x1="1540" y1="260" x2="1604.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1475.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1435.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="1540.0,260.0 1547.9,257.4 1604.7,349.0 1525.7,279.7 1536.5,258.9" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="1540.0,257.4 1547.8,257.5 1604.7,349.0 1525.5,280.0 1536.6,258.9" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
-<circle cx="1540.0" cy="260.0" r="4.5" fill="#e3b341"/>
-<circle cx="1547.9" cy="257.4" r="4.5" fill="#e3b341"/>
+<circle cx="1540.0" cy="257.4" r="4.5" fill="#e3b341"/>
+<circle cx="1547.8" cy="257.5" r="4.5" fill="#e3b341"/>
 <circle cx="1604.7" cy="349.0" r="4.5" fill="#e3b341"/>
-<circle cx="1525.7" cy="279.7" r="4.5" fill="#e3b341"/>
-<circle cx="1536.5" cy="258.9" r="4.5" fill="#e3b341"/>
+<circle cx="1525.5" cy="280.0" r="4.5" fill="#e3b341"/>
+<circle cx="1536.6" cy="258.9" r="4.5" fill="#e3b341"/>
 <text x="1540.0" y="120.0" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Current Streak</text>
 <text x="1673.1" y="216.7" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Best Streak</text>
 <text x="1622.3" y="373.3" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Contributions</text>
