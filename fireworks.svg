@@ -370,7 +370,7 @@
 <rect x="768" y="82" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="768" y="96" width="11" height="11" rx="2" fill="#0e4429"/>
 <rect x="768" y="110" width="11" height="11" rx="2" fill="#0e4429"/>
-<rect x="768" y="124" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="768" y="124" width="11" height="11" rx="2" fill="#0e4429"/>
 <rect x="684" y="54" width="11" height="11" rx="2" fill="#39d353"><animate attributeName="y" values="54;14;14" keyTimes="0;0.5;1" dur="1.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.55;0.6" dur="1.4s" begin="0.0s" repeatCount="indefinite"/></rect>
 <rect x="687.5" y="12.0" width="4" height="4" fill="#39d353" opacity="0"><animate attributeName="x" values="687.5;709.5" dur="0.8s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="y" values="12.0;12.0" dur="0.8s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.15;1" dur="0.8s" begin="0.70s" repeatCount="indefinite"/></rect>
 <rect x="687.5" y="12.0" width="4" height="4" fill="#39d353" opacity="0"><animate attributeName="x" values="687.5;698.5" dur="0.8s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="y" values="12.0;31.1" dur="0.8s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.15;1" dur="0.8s" begin="0.70s" repeatCount="indefinite"/></rect>
