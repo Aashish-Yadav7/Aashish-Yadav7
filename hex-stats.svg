@@ -11,12 +11,12 @@
 <line x1="220" y1="260" x2="284.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="220" y1="260" x2="155.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="220" y1="260" x2="115.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="220.0,150.0 251.5,249.8 222.0,262.8 220.0,260.0 220.0,260.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="220.0,150.0 251.5,249.8 223.0,264.1 220.0,260.0 220.0,260.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
 <circle cx="220.0" cy="150.0" r="4.5" fill="#e3b341"/>
 <circle cx="251.5" cy="249.8" r="4.5" fill="#e3b341"/>
-<circle cx="222.0" cy="262.8" r="4.5" fill="#e3b341"/>
+<circle cx="223.0" cy="264.1" r="4.5" fill="#e3b341"/>
 <circle cx="220.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <circle cx="220.0" cy="260.0" r="4.5" fill="#e3b341"/>
 <text x="220.0" y="120.0" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">HTML</text>
@@ -83,14 +83,14 @@
 <line x1="1540" y1="260" x2="1604.7" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1475.3" y2="349.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
 <line x1="1540" y1="260" x2="1435.4" y2="226.0" stroke="#e3b341" stroke-width="1" opacity="0.25"/>
-<polygon points="1540.0,260.0 1547.3,257.6 1604.7,349.0 1524.3,281.7 1536.8,259.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
+<polygon points="1540.0,259.5 1547.2,257.7 1604.7,349.0 1524.2,281.8 1536.9,259.0" fill="#39D353" fill-opacity="0.45" stroke="#e3b341" stroke-width="3">
 <animate attributeName="fill-opacity" values="0.45;0.65;0.45" dur="3s" repeatCount="indefinite"/>
 </polygon>
-<circle cx="1540.0" cy="260.0" r="4.5" fill="#e3b341"/>
-<circle cx="1547.3" cy="257.6" r="4.5" fill="#e3b341"/>
+<circle cx="1540.0" cy="259.5" r="4.5" fill="#e3b341"/>
+<circle cx="1547.2" cy="257.7" r="4.5" fill="#e3b341"/>
 <circle cx="1604.7" cy="349.0" r="4.5" fill="#e3b341"/>
-<circle cx="1524.3" cy="281.7" r="4.5" fill="#e3b341"/>
-<circle cx="1536.8" cy="259.0" r="4.5" fill="#e3b341"/>
+<circle cx="1524.2" cy="281.8" r="4.5" fill="#e3b341"/>
+<circle cx="1536.9" cy="259.0" r="4.5" fill="#e3b341"/>
 <text x="1540.0" y="120.0" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Current Streak</text>
 <text x="1673.1" y="216.7" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Best Streak</text>
 <text x="1622.3" y="373.3" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle" dominant-baseline="middle">Contributions</text>
