@@ -1,12 +1,16 @@
 <div align="center">
 
+
+<br><br>
+
 <!-- bright typing text, matches the rest of the page's dark theme -->
 <a href="https://github.com/Aashish-Yadav7">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=FF8C00&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;BCA+student+building+AI+and+web+projects;Currently+developing+PYROS;Learning+by+building%2C+one+project+at+a+time" alt="typing animation">
 </a>
 
 </div>
-
+<div align="center">
+  <img width="223" height="290" alt="Firefly-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/6082e832-92cc-41dd-a0ef-ef01eaff854b" /> </div>
 <br>
 
 ### About
